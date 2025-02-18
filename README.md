@@ -1,4 +1,4 @@
-# -E-Shop-Project
+# E-Shop-Project
 
 
 Welcome to my E-shop project!

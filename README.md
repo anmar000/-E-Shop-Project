@@ -8,8 +8,7 @@ This is a brief introduction to the project, showcasing its features and goals. 
 ## Watch the Introduction Video
 
 Check out the short video walkthrough of the project:
-
-[![Watch the video](https://www.youtube.com/watch?v=5g3jvYugzdU)
+[![Watch the video](https://img.youtube.com/vi/5g3jvYugzdU/0.jpg)](https://youtu.be/5g3jvYugzdU)
 
 ## Project Description
 

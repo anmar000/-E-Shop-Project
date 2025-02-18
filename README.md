@@ -17,3 +17,6 @@ This project is a simple e-shop that I am building as part of a personal initiat
 ## How to Contribute
 
 If you're a developer, designer, or someone interested in collaborating, please feel free to reach out!
+
+## Contact
+You can reach me at: [annamar.mitsi@gmail.com](mailto:annamar.mitsi@gmail.com)
